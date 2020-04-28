@@ -1,0 +1,15 @@
+idProductos;idTipoProd;NombProd;ValMetro;Imagen;EstaProd;;;Tipo De Producto;
+1000;1;Cocina creativa;30000;Cocina1.jpg;Activo;;;1;Cocinas
+1001;1;Cocina L;;Cocina2.jpg;Activo;;;2;Mesas
+1002;1;Cocina L;;Cocina3.jpg;Activo;;;3;Salas
+1003;1;Cocina venguardia o moderna;;Cocina4.jpg;Activo;;;4;Baños
+1004;1;Cocina clásica;;Cocina5.jpg;Activo;;;5;Alcobas
+1005;1;Cocina clásica;;Cocina6.jpg;Activo;;;6;Comedores
+1006;1;Cocina clásica;;Cocina7.jpg;Activo;;;7;Puertas
+1007;1;Cocina moderna;;Cocina8.jpg;Activo;;;8;Carpinteria
+1008;1;Alta cocina ;;Cocina9.jpg;Activo;;;9;Closet
+1009;1;Cocina clásica;;Cocina10.jpg;Activo;;;;
+1010;1;;;;;;;;
+1011;1;;;;;;;;
+1012;1;;;;;;;;
+1013;1;;;;;;;;
